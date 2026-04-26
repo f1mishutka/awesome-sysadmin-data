@@ -1,0 +1,12 @@
+name: FaynoSync
+website_url: https://faynosync.com
+description: Self-hosted Dynamic Update Server with statistics, supporting multiple updaters. Flexible features for seamless app updates and insights.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Deployment Automation
+source_code_url: https://github.com/ku9nov/faynoSync
+related_software_url: https://github.com/ku9nov/faynoSync-dashboard

@@ -1,0 +1,12 @@
+name: tirreno
+website_url: https://www.tirreno.com/
+description: Application-level security to protect your app from threats, fraud, and abuse.
+licenses:
+  - AGPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/tirrenotechnologies/tirreno
+demo_url: https://play.tirreno.com/

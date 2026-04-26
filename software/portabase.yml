@@ -1,0 +1,10 @@
+name: Portabase
+website_url: https://portabase.io/
+description: Server dashboard tool that simplifies the backup and restoration of your database instances.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Backups
+source_code_url: https://github.com/Portabase/portabase

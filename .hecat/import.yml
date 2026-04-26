@@ -1,0 +1,8 @@
+steps:
+  - name: import awesome-sysadmin README.md
+    module: importers/markdown_awesome
+    module_options:
+      source_file: awesome-sysadmin/README.md
+      output_directory: ./
+      output_licenses_file: licenses.yml
+      overwrite_tags: False

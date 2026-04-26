@@ -1,0 +1,10 @@
+name: OpenNTPD
+website_url: https://www.openntpd.org/
+description: A FREE, easy to use implementation of the Network Time Protocol.
+licenses:
+  - ISC
+platforms:
+  - C
+tags:
+  - Time Servers
+source_code_url: https://github.com/openntpd-portable/openntpd-openbsd/

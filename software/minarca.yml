@@ -1,0 +1,10 @@
+name: Minarca
+website_url: https://minarca.org/
+description: Client–server backup platform with a centralized web console to manage and restore Linux, Windows, and macOS backups via GUI or CLI.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Backups
+source_code_url: https://gitlab.com/ikus-soft/minarca

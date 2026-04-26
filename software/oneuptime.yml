@@ -1,0 +1,10 @@
+name: OneUptime
+website_url: https://oneuptime.com
+description: A comprehensive solution for monitoring and managing your online services.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/oneuptime/oneuptime

@@ -1,0 +1,10 @@
+name: Coolify
+website_url: https://coolify.io/
+description: An open-source & self-hostable Heroku / Netlify alternative (and even more).
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - PaaS
+source_code_url: https://github.com/coollabsio/coolify

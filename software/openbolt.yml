@@ -1,0 +1,10 @@
+name: OpenBolt
+website_url: https://voxpupuli.org/openvox/
+description: Orchestration tool to run orchestration workflows or one-off tasks/scripts to automate the provisioning and management of nodes. Community fork of the last open source version of [Puppet Bolt](https://help.puppet.com/bolt/current/topics/bolt.htm).
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - Automation
+source_code_url: https://github.com/OpenVoxProject/openbolt

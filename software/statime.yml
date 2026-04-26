@@ -1,0 +1,11 @@
+name: Statime
+website_url: https://github.com/pendulum-project/statime
+description: A Precision Time Protocol (PTP) implementation in Rust.
+licenses:
+  - MIT
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - Time Servers
+source_code_url: https://github.com/pendulum-project/statime

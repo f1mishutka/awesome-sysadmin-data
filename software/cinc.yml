@@ -1,0 +1,10 @@
+name: CINC
+website_url: https://cinc.sh/
+description: Free distribution of [Chef](https://www.chef.io/products/chef-infra), a configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes".
+licenses:
+  - Apache-2.0
+platforms:
+  - Ruby
+tags:
+  - Configuration Management
+source_code_url: https://gitlab.com/cinc-project/upstream/chef

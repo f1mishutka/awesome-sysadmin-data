@@ -1,0 +1,11 @@
+name: MeshCentral
+website_url: https://meshcentral.com
+description: A complete web-based remote monitoring and management web site.
+licenses:
+  - Apache-2.0
+platforms:
+  - JavaScript
+  - HTML
+tags:
+  - Control Panels
+source_code_url: https://github.com/ylianst/meshcentral

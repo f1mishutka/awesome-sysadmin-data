@@ -1,0 +1,10 @@
+name: Rudder
+website_url: https://www.rudder.io/
+description: Scalable and dynamic configuration management system for patching, security & compliance, based on CFEngine.
+licenses:
+  - GPL-3.0
+platforms:
+  - Scala
+tags:
+  - Configuration Management
+source_code_url: https://github.com/Normation/rudder

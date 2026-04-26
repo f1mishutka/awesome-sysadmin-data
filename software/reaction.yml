@@ -1,0 +1,10 @@
+name: reaction
+website_url: https://reaction.ppom.me/
+description: A lightweight daemon that scans program outputs for repeated patterns, and takes action.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+tags:
+  - Log Management
+source_code_url: https://framagit.org/ppom/reaction

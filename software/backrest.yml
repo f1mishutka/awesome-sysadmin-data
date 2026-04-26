@@ -1,0 +1,11 @@
+name: Backrest
+website_url: https://garethgeorge.github.io/backrest/
+description: Backrest is a web UI and orchestrator for restic backup.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - Backups
+source_code_url: https://github.com/garethgeorge/backrest

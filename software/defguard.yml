@@ -1,0 +1,10 @@
+name: DefGuard
+website_url: https://defguard.net/
+description: True enterprise WireGuard with MFA/2FA and SSO.
+licenses:
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - VPN
+source_code_url: https://github.com/DefGuard

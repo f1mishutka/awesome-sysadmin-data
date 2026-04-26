@@ -1,0 +1,10 @@
+name: Beszel
+website_url: https://beszel.dev/
+description: Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/henrygd/beszel

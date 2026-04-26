@@ -1,0 +1,10 @@
+name: Chrony
+website_url: https://chrony-project.org/
+description: A versatile implementation of the Network Time Protocol (NTP).
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Time Servers
+source_code_url: https://gitlab.com/chrony/chrony

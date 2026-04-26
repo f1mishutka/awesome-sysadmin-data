@@ -1,0 +1,12 @@
+name: openDCIM
+website_url: https://opendcim.org/
+description: GPL v3 Data Center Inventory Management (DCIM).
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - JavaScript
+tags:
+  - IT Asset Management
+source_code_url: https://github.com/opendcim/openDCIM
+demo_url: https://opendcim.org/demo.html

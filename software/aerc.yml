@@ -1,0 +1,10 @@
+name: aerc
+website_url: https://aerc-mail.org/
+description: Terminal MUA with a focus on plaintext and features for developers.
+licenses:
+  - MIT
+platforms:
+  - Go
+tags:
+  - Mail Clients
+source_code_url: https://git.sr.ht/~rjarry/aerc

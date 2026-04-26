@@ -1,0 +1,12 @@
+name: IPFire
+website_url: https://www.ipfire.org/
+description: Free network firewall distribution, based on the Linux operating system with easy-to-use web management console.
+licenses:
+  - GPL-2.0
+platforms:
+  - Shell
+  - PHP
+  - Other
+tags:
+  - Router
+source_code_url: https://github.com/ipfire/ipfire-2.x

@@ -1,0 +1,10 @@
+name: VictoriaMetrics
+website_url: https://victoriametrics.com/
+description: Fast, cost-effective time series database and monitoring solution; drop-in replacement for Prometheus with PromQL/MetricsQL support.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Metrics & Metric Collection
+source_code_url: https://github.com/VictoriaMetrics/VictoriaMetrics

@@ -1,0 +1,11 @@
+name: Terrateam
+website_url: https://terrateam.io
+description: GitOps-first automation platform for Terraform and OpenTofu workflows with support for self-hosted runners.
+licenses:
+  - MPL-2.0
+platforms:
+  - OCaml
+  - Docker
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/terrateamio/terrateam

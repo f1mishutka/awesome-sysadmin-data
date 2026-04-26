@@ -1,0 +1,11 @@
+name: cloud-init
+website_url: https://cloud-init.io/
+description: Initialization tool to automate the configuration of VMs, cloud instances, or machines on a network.
+licenses:
+  - GPL-3.0
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Configuration Management
+source_code_url: https://github.com/canonical/cloud-init

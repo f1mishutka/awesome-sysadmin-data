@@ -1,0 +1,10 @@
+name: Wazuh
+website_url: https://wazuh.com/
+description: Unified XDR and SIEM protection for endpoints and cloud workloads.
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/wazuh/wazuh

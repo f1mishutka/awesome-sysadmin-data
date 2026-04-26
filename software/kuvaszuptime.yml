@@ -1,0 +1,11 @@
+name: KuvaszUptime
+website_url: https://kuvasz-uptime.dev
+description: Performant, stable uptime & SSL monitoring service with brandable status pages, IAC support, Prometheus integration and a complete REST API.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/kuvasz-uptime/kuvasz
+demo_url: https://kuvasz-uptime.dev/demo/

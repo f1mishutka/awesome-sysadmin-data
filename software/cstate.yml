@@ -1,0 +1,11 @@
+name: cState
+website_url: https://cstate.netlify.app/
+description: Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+.
+licenses:
+  - MIT
+platforms:
+  - HTML
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/cstate/cstate
+demo_url: https://cstate.mnts.lt/

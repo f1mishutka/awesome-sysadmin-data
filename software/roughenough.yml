@@ -1,0 +1,11 @@
+name: Roughenough
+website_url: https://github.com/int08h/roughenough
+description: A Roughtime secure time synchronization client and server.
+licenses:
+  - MIT
+  - Apache-2.0
+platforms:
+  - Rust
+tags:
+  - Time Servers
+source_code_url: https://github.com/int08h/roughenough

@@ -1,0 +1,12 @@
+name: checkmk
+website_url: https://checkmk.com/
+description: Comprehensive solution for monitoring of applications, servers, and networks.
+licenses:
+  - GPL-2.0
+platforms:
+  - Python
+  - PHP
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/Checkmk/checkmk
+demo_url: '[Source Code](https://github.com/Checkmk/checkmk'

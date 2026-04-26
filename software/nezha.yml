@@ -1,0 +1,11 @@
+name: Nezha
+website_url: https://nezha.wiki/en_US/
+description: Lightweight, servers & websites monitoring and O&M tool.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Shell
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/nezhahq/nezha
