@@ -53,10 +53,10 @@ export_html:
 .PHONY: push_markdown # commit and push changes to the markdown repository
 push_markdown:
 	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
-	cd awesome-sysadmin && git remote set-url origin git@github.com:$(MARKDOWN_REPOSITORY)
-	cd awesome-sysadmin && git config user.name awesome-sysadmin-bot && git config user.email github-actions@github.com
-	cd awesome-sysadmin && git add . && (git diff-index --quiet HEAD || git commit -m "[bot] build markdown from awesome-sysadmin-data $(COMMIT_HASH)")
-	cd awesome-sysadmin && git push -f
+	cd awesome-sysadmin-markdown && git remote set-url origin git@github.com:$(MARKDOWN_REPOSITORY)
+	cd awesome-sysadmin-markdown && git config user.name awesome-sysadmin-bot && git config user.email github-actions@github.com
+	cd awesome-sysadmin-markdown && git add . && (git diff-index --quiet HEAD || git commit -m "[bot] build markdown from awesome-sysadmin-data $(COMMIT_HASH)")
+	cd awesome-sysadmin-markdown && git push -f
 
 .PHONY: push_html # commit and push changes to the HTML site repository (amend previous commit and force-push)
 push_html:
