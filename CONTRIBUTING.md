@@ -81,8 +81,9 @@ To do this from Github's web interface:
 
 In addition to guidelines listed in the [Pull Request template](.github/PULL_REQUEST_TEMPLATE.md), these general rules help keep the list consistent:
 
-- Please avoid redundant terms in project descriptions, such as _open-source_, _free_, _self-hosted_... as their presence on awesome-sysadmin already implies this.
 - Pull Requests not respecting the PR template will be rejected and the submitter banned without explanations.
+- The project you are adding should be intended for professional setup, not personal use.
+- Please avoid redundant terms in project descriptions, such as _open-source_, _free_, _self-hosted_... as their presence on awesome-sysadmin already implies this.
 - Prefer shorter forms for descriptions - for example, `Network backup and restore program` would be preferred to `A network backup and restore program` or `$PROJECT is a network backup and restore program`).
 - If the the project has no documentation in English, please add `(documentation in $LANGUAGE)` at the end of the description.
 - If the project is presented as an alternative to another service or application, please mention it as `(alternative to $PRODUCT1, $PRODUCT2)` at the end of the description.
