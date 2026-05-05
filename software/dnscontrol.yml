@@ -1,5 +1,5 @@
 name: DNSControl
-website_url: https://stackexchange.github.io/dnscontrol/
+website_url: https://dnscontrol.org/
 description: Synchronize your DNS to multiple providers from a simple DSL.
 licenses:
   - MIT
@@ -8,4 +8,4 @@ platforms:
   - Docker
 tags:
   - DNS - Control Panels & Domain Management
-source_code_url: https://github.com/StackExchange/dnscontrol
+source_code_url: https://github.com/itstoragesvc/dnscontrol

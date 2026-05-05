@@ -1,0 +1,10 @@
+name: Harness
+website_url: https://www.harness.io/open-source
+description: End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone).
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Continuous Integration & Continuous Deployment
+source_code_url: https://github.com/harness/harness

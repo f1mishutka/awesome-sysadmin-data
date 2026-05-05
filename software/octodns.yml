@@ -1,5 +1,5 @@
 name: octoDNS
-website_url: https://github.com/github/octodns
+website_url: https://github.com/octodns/octodns
 description: DNS as code - Tools for managing DNS across multiple providers.
 licenses:
   - MIT
@@ -7,4 +7,4 @@ platforms:
   - Python
 tags:
   - DNS - Control Panels & Domain Management
-source_code_url: https://github.com/github/octodns
+source_code_url: https://github.com/octodns/octodns

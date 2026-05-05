@@ -1,5 +1,5 @@
 name: Linux Dash
-website_url: https://github.com/afaqurk/linux-dash
+website_url: https://github.com/tariqbuilds/linux-dash
 description: A low-overhead monitoring web dashboard for a GNU/Linux machine.
 licenses:
   - MIT
@@ -10,4 +10,4 @@ platforms:
   - PHP
 tags:
   - Monitoring & Status Pages
-source_code_url: https://github.com/afaqurk/linux-dash
+source_code_url: https://github.com/tariqbuilds/linux-dash

@@ -1,5 +1,5 @@
-name: LXD
-website_url: https://linuxcontainers.org/lxd/
+name: Incus
+website_url: https://linuxcontainers.org/incus/
 description: Container "hypervisor" and a better UX for LXC.
 licenses:
   - Apache-2.0
@@ -7,4 +7,4 @@ platforms:
   - Go
 tags:
   - Software Containers
-source_code_url: https://github.com/lxc/lxd
+source_code_url: https://github.com/lxc/incus

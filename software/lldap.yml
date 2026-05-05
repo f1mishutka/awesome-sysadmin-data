@@ -1,5 +1,5 @@
 name: lldap
-website_url: https://github.com/nitnelave/lldap
+website_url: https://github.com/lldap/lldap
 description: Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support.
 licenses:
   - GPL-3.0
@@ -7,4 +7,4 @@ platforms:
   - Rust
 tags:
   - Identity Management - LDAP
-source_code_url: https://github.com/nitnelave/lldap
+source_code_url: https://github.com/lldap/lldap
