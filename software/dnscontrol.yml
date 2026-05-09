@@ -8,4 +8,4 @@ platforms:
   - Docker
 tags:
   - DNS - Control Panels & Domain Management
-source_code_url: https://github.com/itstoragesvc/dnscontrol
+source_code_url: https://github.com/DNSControl/dnscontrol
