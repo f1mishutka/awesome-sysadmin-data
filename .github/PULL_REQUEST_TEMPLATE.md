@@ -10,7 +10,7 @@ To ensure your Pull Request is dealt with swiftly, please check the following (c
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-foss/awesome-sysadmin-data/issues) or [PRs](https://github.com/awesome-foss/awesome-sysadmin-data/pulls), including closed ones.
 - [ ] Any software you are adding is not already listed at any of [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), [dbdb.io](https://dbdb.io/browse).
 - [ ] Software you are submitting is not your own, unless you have a healthy ecosystem with a few contributors (which aren't your sock puppet accounts).
-- [ ] The file you are adding is formatted as described in [addition.md](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/.github/ISSUE_TEMPLATE/addition.md).
+- [ ] The file you are adding is formatted as described in [addition.md](https://github.com/awesome-foss/awesome-sysadmin-data/blob/master/.github/ISSUE_TEMPLATE/addition.md).
 - [ ] `Demo` links should only be used for interactive demos, i.e. not video demonstrations. If login credentials are required to access the demo, please link to the credentials directly.
 - [ ] Comments and unused optional fields have been removed.
 - [ ] The file you are adding uses [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) file naming, for example `my-awesome-software.yml`.
