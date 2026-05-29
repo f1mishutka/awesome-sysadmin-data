@@ -8,3 +8,22 @@ platforms:
 tags:
   - Control Panels
 source_code_url: https://github.com/cockpit-project/cockpit
+stargazers_count: 14170
+updated_at: '2026-05-29'
+archived: false
+current_release:
+  tag: '356.2'
+  published_at: '2026-05-21'
+commit_history:
+  2025-06: 70
+  2025-07: 132
+  2025-08: 81
+  2025-09: 71
+  2025-10: 53
+  2025-11: 80
+  2025-12: 109
+  2026-01: 163
+  2026-02: 76
+  2026-03: 73
+  2026-04: 120
+  2026-05: 93

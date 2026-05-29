@@ -9,3 +9,22 @@ tags:
   - Configuration Management Database
 source_code_url: https://github.com/netbox-community/netbox
 demo_url: https://demo.netbox.dev/
+stargazers_count: 20716
+updated_at: '2026-05-29'
+archived: false
+current_release:
+  tag: v4.6.1
+  published_at: '2026-05-19'
+commit_history:
+  2025-06: 50
+  2025-07: 67
+  2025-08: 119
+  2025-09: 117
+  2025-10: 156
+  2025-11: 114
+  2025-12: 85
+  2026-01: 117
+  2026-02: 78
+  2026-03: 172
+  2026-04: 155
+  2026-05: 145

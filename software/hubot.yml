@@ -8,3 +8,22 @@ platforms:
 tags:
   - ChatOps
 source_code_url: https://github.com/hubotio/hubot
+stargazers_count: 16789
+updated_at: '2026-05-23'
+archived: false
+current_release:
+  tag: v14.1.0
+  published_at: '2026-02-24'
+commit_history:
+  2025-06: 3
+  2025-07: 0
+  2025-08: 5
+  2025-09: 1
+  2025-10: 4
+  2025-11: 2
+  2025-12: 3
+  2026-01: 0
+  2026-02: 8
+  2026-03: 1
+  2026-04: 0
+  2026-05: 2

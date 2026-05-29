@@ -8,3 +8,22 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/restic/restic
+stargazers_count: 33728
+updated_at: '2026-05-20'
+archived: false
+current_release:
+  tag: v0.18.1
+  published_at: '2025-09-21'
+commit_history:
+  2025-06: 18
+  2025-07: 14
+  2025-08: 8
+  2025-09: 196
+  2025-10: 86
+  2025-11: 104
+  2025-12: 23
+  2026-01: 41
+  2026-02: 39
+  2026-03: 0
+  2026-04: 4
+  2026-05: 95

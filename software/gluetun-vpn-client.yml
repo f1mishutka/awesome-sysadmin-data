@@ -1,5 +1,5 @@
 name: Gluetun VPN client
-website_url: https://github.com/qdm12/gluetun
+website_url: https://github.com/passteque/gluetun
 description: VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 licenses:
   - MIT
@@ -7,4 +7,23 @@ platforms:
   - Docker
 tags:
   - VPN
-source_code_url: https://github.com/qdm12/gluetun
+source_code_url: https://github.com/passteque/gluetun
+stargazers_count: 14387
+updated_at: '2026-05-25'
+archived: false
+current_release:
+  tag: v3.41.1
+  published_at: '2026-02-11'
+commit_history:
+  2025-06: 0
+  2025-07: 0
+  2025-08: 5
+  2025-09: 6
+  2025-10: 34
+  2025-11: 79
+  2025-12: 30
+  2026-01: 6
+  2026-02: 52
+  2026-03: 72
+  2026-04: 22
+  2026-05: 60

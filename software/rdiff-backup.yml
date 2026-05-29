@@ -8,3 +8,22 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/rdiff-backup/rdiff-backup
+stargazers_count: 1255
+updated_at: '2026-04-29'
+archived: false
+current_release:
+  tag: weekly
+  published_at: '2023-07-01'
+commit_history:
+  2025-06: 9
+  2025-07: 0
+  2025-08: 1
+  2025-09: 0
+  2025-10: 0
+  2025-11: 1
+  2025-12: 0
+  2026-01: 0
+  2026-02: 3
+  2026-03: 8
+  2026-04: 6
+  2026-05: 0
