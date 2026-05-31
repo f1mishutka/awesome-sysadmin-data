@@ -9,7 +9,7 @@ tags:
   - Control Panels
 source_code_url: https://github.com/Froxlor/Froxlor/
 stargazers_count: 1739
-updated_at: '2026-05-26'
+updated_at: '2026-05-29'
 archived: false
 current_release:
   tag: 2.3.7
@@ -26,4 +26,4 @@ commit_history:
   2026-02: 19
   2026-03: 32
   2026-04: 14
-  2026-05: 5
+  2026-05: 6
