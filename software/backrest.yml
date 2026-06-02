@@ -9,14 +9,13 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/garethgeorge/backrest
-stargazers_count: 6428
+stargazers_count: 6444
 updated_at: '2026-05-11'
 archived: false
 current_release:
   tag: v1.13.0
   published_at: '2026-05-04'
 commit_history:
-  2025-06: 16
   2025-07: 3
   2025-08: 31
   2025-09: 14
@@ -28,3 +27,4 @@ commit_history:
   2026-03: 11
   2026-04: 8
   2026-05: 18
+  2026-06: 0

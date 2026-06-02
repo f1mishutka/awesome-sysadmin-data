@@ -11,13 +11,12 @@ tags:
 source_code_url: https://github.com/openITCOCKPIT/openITCOCKPIT
 demo_url: https://demo.openitcockpit.io/
 stargazers_count: 376
-updated_at: '2026-05-22'
+updated_at: '2026-06-01'
 archived: false
 current_release:
   tag: openITCOCKPIT-5.5.2
   published_at: '2026-04-14'
 commit_history:
-  2025-06: 41
   2025-07: 81
   2025-08: 137
   2025-09: 182
@@ -29,3 +28,4 @@ commit_history:
   2026-03: 52
   2026-04: 54
   2026-05: 29
+  2026-06: 2
