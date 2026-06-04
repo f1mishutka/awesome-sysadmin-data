@@ -10,8 +10,8 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/nhost/nhost
-stargazers_count: 9178
-updated_at: '2026-06-03'
+stargazers_count: 9182
+updated_at: '2026-06-04'
 archived: false
 current_release:
   tag: constellation@0.5.0
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 110
   2026-04: 89
   2026-05: 137
-  2026-06: 40
+  2026-06: 52
