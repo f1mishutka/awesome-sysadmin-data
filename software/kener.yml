@@ -10,7 +10,7 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/rajnandan1/kener
 stargazers_count: 4966
-updated_at: '2026-04-09'
+updated_at: '2026-06-06'
 archived: false
 current_release:
   tag: v4.0.23
@@ -26,5 +26,5 @@ commit_history:
   2026-02: 155
   2026-03: 136
   2026-04: 7
-  2026-05: 0
-  2026-06: 0
+  2026-05: 1
+  2026-06: 20
