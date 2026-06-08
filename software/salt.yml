@@ -8,8 +8,8 @@ platforms:
 tags:
   - Configuration Management
 source_code_url: https://github.com/saltstack/salt
-stargazers_count: 15481
-updated_at: '2026-06-07'
+stargazers_count: 15482
+updated_at: '2026-06-08'
 archived: false
 current_release:
   tag: v3008.0
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 163
   2026-04: 288
   2026-05: 476
-  2026-06: 5
+  2026-06: 10
