@@ -8,12 +8,12 @@ platforms:
 tags:
   - VPN
 source_code_url: https://github.com/firezone/firezone
-stargazers_count: 8638
-updated_at: '2026-06-10'
+stargazers_count: 8647
+updated_at: '2026-06-11'
 archived: false
 current_release:
-  tag: headless-client-1.5.9
-  published_at: '2026-06-09'
+  tag: macos-client-1.5.17
+  published_at: '2026-06-11'
 commit_history:
   2025-07: 222
   2025-08: 124
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 252
   2026-04: 227
   2026-05: 278
-  2026-06: 138
+  2026-06: 147
