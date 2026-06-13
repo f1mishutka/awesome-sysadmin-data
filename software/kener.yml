@@ -9,12 +9,12 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/rajnandan1/kener
-stargazers_count: 4977
-updated_at: '2026-06-12'
+stargazers_count: 4978
+updated_at: '2026-06-13'
 archived: false
 current_release:
-  tag: v4.0.23
-  published_at: '2026-04-01'
+  tag: v4.1.0
+  published_at: '2026-06-13'
 commit_history:
   2025-07: 11
   2025-08: 13
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 136
   2026-04: 7
   2026-05: 1
-  2026-06: 43
+  2026-06: 68
