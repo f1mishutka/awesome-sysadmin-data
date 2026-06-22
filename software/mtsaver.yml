@@ -1,12 +1,4 @@
----
-name: mtsaver
-about: Simple differential backup archives command-line tool. 7-Zip archiver based.
-title: mtsaver
-labels: Go
 
----
-
-```yaml
 # software name
 name: "mtsaver"
 # URL of the software project's homepage
@@ -24,15 +16,4 @@ platforms:
 # list of tags (categories), see https://github.com/awesome-foss/awesome-sysadmin-data/tree/master/tags for the full list of tags
 tags:
   - Backups
-```
 
-To ensure your issue is dealt with swiftly, please check the following (check the boxes `[x]`):
-
-- [x] Submit one item per issue. This eases reviewing and speeds up inclusion.
-- [x] You have searched the repository for any relevant [issues](https://github.com/awesome-foss/awesome-sysadmin-data/issues) or [PRs](https://github.com/awesome-foss/awesome-sysadmin-data/pulls), including closed ones.
-- [x] Any software you are adding is not already listed at any of [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), [dbdb.io](https://dbdb.io/browse).
-- [x] Any software project you are adding to the list is actively maintained.
-- [x] Any software project you are adding was first released more than 12 months ago.
-- [x] Any software project you are adding has working installation instructions.
-
-Former PR with discussion: https://github.com/awesome-foss/awesome-sysadmin/pull/659
