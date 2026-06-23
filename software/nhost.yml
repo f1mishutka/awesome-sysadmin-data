@@ -10,8 +10,8 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/nhost/nhost
-stargazers_count: 9203
-updated_at: '2026-06-21'
+stargazers_count: 9210
+updated_at: '2026-06-22'
 archived: false
 current_release:
   tag: '@nhost/dashboard@2.66.0'
@@ -28,4 +28,4 @@ commit_history:
   2026-03: 110
   2026-04: 89
   2026-05: 137
-  2026-06: 123
+  2026-06: 128

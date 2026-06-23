@@ -8,12 +8,12 @@ platforms:
 tags:
   - Metrics & Metric Collection
 source_code_url: https://github.com/VictoriaMetrics/VictoriaMetrics
-stargazers_count: 17190
-updated_at: '2026-06-19'
+stargazers_count: 17196
+updated_at: '2026-06-22'
 archived: false
 current_release:
-  tag: v1.136.11
-  published_at: '2026-06-08'
+  tag: v1.136.12
+  published_at: '2026-06-22'
 commit_history:
   2025-07: 179
   2025-08: 118
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 105
   2026-04: 166
   2026-05: 107
-  2026-06: 101
+  2026-06: 112
